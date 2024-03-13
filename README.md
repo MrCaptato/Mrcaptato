@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React, NextJs, AWS**
 
-💬 Ask me about **Node.js, Express.js , React... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, Express.js , React... or anything [here](https://github.com/MrCaptato/Mrcaptato/issues)**
 
 ⚡ Fun fact **Kenyan marathon runners have turbocharged legs—maybe they’re secretly powered by gazelle energy bars! 🏃‍♂️🦌**
 
