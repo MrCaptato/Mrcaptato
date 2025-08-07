@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Community Building app**
  
- 🌱 I’m currently learning **React, NextJs, AWS**
+ 🌱 I’m currently learning **Machine Learning, DevOps, AWS**
 
 💬 Ask me about **Node.js, Express.js , React... or anything [here](https://github.com/MrCaptato/Mrcaptato/issues)**
 
